@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088778539594",
+    "project_id": "my-community-d8ab0",
+    "storage_bucket": "my-community-d8ab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088778539594:android:46b550e0c377bf13218cb3",
+        "android_client_info": {
+          "package_name": "com.example.sewa_oto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnscsdEoCojv5bMPW5CSQSj8eQXpDBbBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088778539594:android:7ee0663f47a75059218cb3",
+        "android_client_info": {
+          "package_name": "com.example.sewa_oto2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnscsdEoCojv5bMPW5CSQSj8eQXpDBbBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
